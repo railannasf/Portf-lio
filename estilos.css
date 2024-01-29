@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+#tbheader {
+    width: 100%;
+    height: 200px;
+    background-image: linear-gradient(royalblue, pink);
+
+}
+
+body {
+
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: pink;
+}
+
+* {
+    text-decoration: none;
+}
+
+
+
+#FotoPerfil {
+
+    width: 100px;
+    border-radius: 100%;
+    border-color: white;
+    border-style: solid
+}
+
+#h1 {
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+
+#h2 {
+    margin-left: 5%;
+    color: whitesmoke;
+}
+
+#h3 {
+    font-family: Caveat;
+    margin-left: 5%;
+    color: whitesmoke;
+
+}
+
+#p1 {
+    margin-left: 10px;
+
+}
+
+.botao {
+    font-family: Caveat;
+    margin-left: 8%;
+    border-radius: 10px;
+    font-size: 28px;
+    color: black;
+
+
+}
+
+.botaoSelecionado {
+    padding: 10px 20px 10px 15px;
+    background-color: royalblue;
+}
+
+
+a:hover {
+    padding: 10px 20px 10px 15px;
+    background-color: royalblue;
+
+
+}
+
+a:active {
+    color: royalblue;
+
+}
+
+
+
+a {
+    color: black;
+}
+
+
+#td1 {
+
+    background-image: linear-gradient(pink, royalblue);
+    border-radius: 5%;
+    font-size: 28px;
+}
+
+#ContateMe {
+    margin-left: 5%;
+    margin-bottom: 5%;
+    background-color: pink;
+    border: 2px;
+    border-radius: 5px;
+    font-size: 28px;
+    color: royalblue;
+}
+
+#td2 {
+    border-radius: 5%;
+
+}
+
+#mulher {
+    border-radius: 5%;
+    margin-top: 5px;
+
+}
+
+
+
+
+
+#nome {
+    margin-left: 5%;
+    color: navy
+}
+
+#p1 {
+    font-size: 20px;
+}
+
+#menu {
+    font-size: 20px;
+}
+
+#copy {
+    text-align: center;
+
+
+}
+
+#slctAssunto {
+    width: 173px;
+    border-radius: 5px;
+}
+
+#txtNome {
+
+    border-radius: 5px;
+}
+
+#txtEmail {
+
+    border-radius: 5px;
+}
+
+
+#txtTelefone {
+    border-radius: 5px;
+}
+
+
+
+#txtMensagem {
+    border-radius: 10px;
+
+}
+
+
+#botaoEnviar {
+    background-color: royalblue;
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    font-size: 12px;
+}
+
+
+footer {
+    background-color: white;
+}
+
+#img {
+    width: 100px;
+    margin-left: 45%;
+    margin-right: 45%;
+}
